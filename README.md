@@ -58,5 +58,4 @@ Geano's Phantom Performance operates by intercepting the Foundry VTT `Actor` cla
 
 ***
 
-*Developed by Antigravity.*
 
