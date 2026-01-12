@@ -28,7 +28,7 @@ GPP anticipates what you need before you need it.
 - **Pre-fetching:** When the GM activates a scene, GPP scans the tokens placed on that canvas. Any "Phantom" actors associated with those tokens are automatically queued for hydration.
 - **Compatibility First:** GPP uses "Progressive Loading" interception for Scene transitions. This ensures maximum compatibility with modules like **Stairways** (Teleporters) or **Aeris Scene Fades** (Animations), preventing race conditions or black screens.
 
-### 🏞️ Phantom Scenes (New!)
+### 🏞️ Phantom Scenes
 Just like Actors, entire Scenes can be heavy. GPP can strip inactive Scenes of their contents to save even more RAM.
 - **Stripping:** Inactive scenes are stripped of `tokens`, `walls`, `lights`, `sounds`, `drawings`, `templates`, and `tiles`. Only the metadata (Name, Background Image, Grid) remains.
 - **Auto-Hydration:** When the GM clicks to **View** or **Activate** a Phantom Scene, GPP intercepts the request, restores all the embedded data from the `world-phantom-scenes` compendium, and *then* loads the canvas.
@@ -59,3 +59,4 @@ Geano's Phantom Performance operates by intercepting the Foundry VTT `Actor` cla
 ***
 
 *Developed by Antigravity.*
+
