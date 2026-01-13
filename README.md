@@ -31,6 +31,12 @@ Maintain total control over your world’s resources:
 
 ---
 
+## 🚀 Installation
+
+- **Manifest URL**: `https://github.com/GeanoFee/geanos-phantom-performance/releases/latest/download/module.json` within Foundry's "Install Module" window.
+
+---
+
 ## 👨‍💻 For Developers (Middleware API)
 GPP is designed to be "Plug-and-Play." Other modules can interact safely with Phantoms using the built-in API:
 
@@ -45,5 +51,6 @@ if (gpp) {
 * **`GPP.isPhantom(doc)`:** Quick status check for any document.
 * **`GPP.prioritize(id)`:** Fire-and-forget background hydration (e.g., on hover or target selection).
 * **Hook `gpp.documentHydrated`:** React to documents as they become fully available.
+
 
 
