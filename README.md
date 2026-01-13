@@ -1,7 +1,7 @@
 # Geano's Phantom Performance
 ### **Massive Performance for Massive Worlds.**
 
-GPP solves the single greatest bottleneck in Foundry VTT: **Database Bloat**. It intelligently transforms inactive actors and scenes into lightweight **Phantoms**, drastically reducing RAM usage and initial load times.
+GPP solves the single greatest bottleneck in FoundryVTT: **Database Bloat**. It intelligently transforms inactive actors and scenes into lightweight **Phantoms**, drastically reducing RAM usage and initial load times.
 
 ---
 
@@ -51,6 +51,7 @@ if (gpp) {
 * **`GPP.isPhantom(doc)`:** Quick status check for any document.
 * **`GPP.prioritize(id)`:** Fire-and-forget background hydration (e.g., on hover or target selection).
 * **Hook `gpp.documentHydrated`:** React to documents as they become fully available.
+
 
 
 
