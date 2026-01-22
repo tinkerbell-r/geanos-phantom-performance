@@ -5,7 +5,7 @@ Geano's Phantom Performance (GPP) revolutionizes how Foundry VTT handles large-s
 
 > [!WARNING]
 > ### ⚠️ Important: Safety & Compatibility
-> As requested by the Foundry VTT Core Team, please be aware that GPP operates deep within the client-side data architecture.
+> Please be aware that GPP operates deep within the client-side data architecture.
 >
 > *   **Experimental Nature:** While GPP uses **Atomic Verification** to protect your data, the sheer variety of game systems and the combination of hundreds of community modules can create a volatile environment.
 > *   **Potential Risks:** In rare cases, complex module interactions could lead to UI misbehavior or data inconsistencies.
@@ -54,3 +54,4 @@ if (GPP.isPhantom(doc)) {
 ## License
 
 This module is licensed under the MIT License.
+
