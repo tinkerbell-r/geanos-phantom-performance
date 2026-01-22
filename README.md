@@ -51,10 +51,6 @@ if (GPP.isPhantom(doc)) {
 
 **Manifest URL:** `https://github.com/GeanoFee/geanos-phantom-performance/releases/latest/download/module.json`
 
+---
 ## License
-
-This module is licensed under the MIT License.
-
-
-
-
+This module is licensed under the [MIT License](LICENSE).
