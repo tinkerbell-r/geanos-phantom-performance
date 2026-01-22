@@ -52,8 +52,6 @@ if (gpp) {
 * **`GPP.prioritize(id)`:** Fire-and-forget background hydration (e.g., on hover or target selection).
 * **Hook `gpp.documentHydrated`:** React to documents as they become fully available.
 
-
-
-
-
-
+---
+## License
+This module is licensed under the [MIT License](LICENSE).
