@@ -1,7 +1,7 @@
 # Geano's Phantom Performance
 ### In-Memory Optimization. Synchronous Integrity. Zero Database Footprint.
 
-Geano's Phantom Performance (GPP) revolutionizes how Foundry VTT handles large-scale world data. By utilizing a high-performance **Synchronous Shadow-RAM Architecture**, it eliminates the memory bloat of large actor and scene collections without sacrificing speed or stability.
+Geano's Phantom Performance revolutionizes how FoundryVTT handles large-scale world data. By utilizing a high-performance **Synchronous Shadow-RAM Architecture**, it eliminates the memory bloat of large actor and scene collections without sacrificing speed or stability.
 
 > [!WARNING]
 > ### ⚠️ Important: Safety & Compatibility
@@ -54,5 +54,6 @@ if (GPP.isPhantom(doc)) {
 ## License
 
 This module is licensed under the MIT License.
+
 
 
